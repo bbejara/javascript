@@ -1,4 +1,4 @@
-# Instalación de NodeJS en Linux desde el repositorio: 
+# Instalación de NodeJS en Linux desde el repositorio APT: 
 
     sudo apt install nodejs
     
