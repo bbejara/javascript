@@ -2,6 +2,7 @@
 
 1. Instalar Node
 [Sitio oficial de node](https://nodejs.org/es/)
+
 Instalación en Linux:
     sudo apt install nodejs
 Comprueba que la instalación se haya realizado de forma correcta haciendo una consulta a node sobre su número de versión:
