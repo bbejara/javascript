@@ -1,4 +1,4 @@
-# Instlaciones recomendadas 
+# Instalaciones recomendadas 
 
 1. Instalar Node
 [Sitio oficial de node](https://nodejs.org/es/)
