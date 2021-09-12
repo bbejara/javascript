@@ -6,7 +6,7 @@ Comprueba que la instalación se haya realizado de forma correcta haciendo una c
 
     nodejs -v
 
-    Output
+Salida:
 
     v10.19.0
 
