@@ -15,11 +15,11 @@ Comprueba que la instalación se haya realizado de forma correcta haciendo una c
 
     v10.19.0
 
-También le convendrá instalar npm, el administrador de paquetes de Node.js. Puede hacer esto instalando el paquete npm con apt:
+También es conveniente instalar npm, el administrador de paquetes de Node.js. Puede hacer esto instalando el paquete npm con apt:
 
     sudo apt install npm
  
-Esto le permitirá instalar módulos y paquetes para utilizarlos con Node.js.
+Esto te permitirá instalar módulos y paquetes para utilizarlos con Node.js.
 
 2. Instalar VSCode
 [Editor Visual Studio Code](https://code.visualstudio.com/)
