@@ -4,13 +4,17 @@
 [Sitio oficial de node](https://nodejs.org/es/)
 
 Instalación en Linux:
+
     sudo apt install nodejs
+    
 Comprueba que la instalación se haya realizado de forma correcta haciendo una consulta a node sobre su número de versión:
 
 nodejs -v
  
 Output
+
 v10.19.0
+
 También le convendrá instalar npm, el administrador de paquetes de Node.js. Puede hacer esto instalando el paquete npm con apt:
 
 sudo apt install npm
