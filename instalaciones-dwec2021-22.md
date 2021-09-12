@@ -2,6 +2,7 @@
 
 1. Instalar Node
 [Sitio oficial de node](https://nodejs.org/es/)
+[Instalación en linux] (https://github.com/brunoprofesor/javascript/blob/main/Instalaci%C3%B3n-NodeJS-Linux.md)
 
 2. Instalar VSCode
 [Editor Visual Studio Code](https://code.visualstudio.com/)
