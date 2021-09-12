@@ -18,7 +18,7 @@
 
 ## Extensiones de Chrome
 
-[Json Viewer Awesome](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe)
+[Json Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=es)
 
 ### Configuración del Bracket Pair Colorizer 2
 
